@@ -1,3 +1,3 @@
-#smart face brain
+#smartfacebrain
 npm install
 npm start
